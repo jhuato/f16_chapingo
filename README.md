@@ -4,7 +4,7 @@ Mi presentación al grupo de estudiantes de Chapingo que visitan Nueva York en s
 
 Archivos:
 
-Datos: pwt9.csv
-R code: Mexico_chapingo.R
-R Sweave: Mexico_chapingo.Rnw
+- Datos: pwt9.csv
+- R code: Mexico_chapingo.R
+- R Sweave: Mexico_chapingo.Rnw
 
