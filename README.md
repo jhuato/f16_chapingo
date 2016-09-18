@@ -1,3 +1,3 @@
 # f16_chapingo
 
-My presentation to the group of Chapingo students visiting New York in September 2016.
+Mi presentación al grupo de estudiantes de Chapingo que visitan Nueva York en septiembre de 2016.
