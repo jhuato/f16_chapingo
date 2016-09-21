@@ -7,4 +7,4 @@ Archivos:
 - Datos: pwt9.csv
 - R code: Mexico_chapingo.R
 - R Sweave: Mexico_chapingo.Rnw
-
+- PDF: Mexico_chapingo.pdf
